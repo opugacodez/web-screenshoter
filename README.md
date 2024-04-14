@@ -10,7 +10,7 @@ This Flask application provides a simple API for capturing screenshots of web pa
 ## Example
 ```bash
 curl -X GET \
-  'http://localhost:5000/?targetUrl=https://example.com&Width=1200&Height=800&TimeOut=5.0&intervalInside=1.0&intervalOutside=1&screenshot=1'
+  'http://localhost:5000/?targetUrl=https://github.com/opugacodez&Width=1200&Height=800&TimeOut=5.0&intervalInside=1.0&intervalOutside=1&screenshot=1'
 ```
 
 ![](assets/images/screen_1713118581847.jpeg)
